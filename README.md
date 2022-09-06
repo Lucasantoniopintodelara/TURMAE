@@ -1,5 +1,4 @@
 # TURMAE
 Hi my name is LucasDelara
-*Right now i'm making a website about clothes
-*In my website you can buy clothes for your family,friends and yourself!
+*Right now i'm making a website for you health
 Website: https://lucasantoniopintodelara.github.io/TURMAE/
